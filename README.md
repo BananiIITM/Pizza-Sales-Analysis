@@ -83,7 +83,7 @@ Validated SQL outputs and visualized time-based trends using **Pandas, Matplotli
 
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](https://github.com/BananiIITM/Pizza-Sales-Analysis/blob/main/PIZZA%20SALES%20DB.pdf)
+![Power BI Dashboard](https://github.com/BananiIITM/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20power%20bi%20dashboard.png)
 
 **Dashboard Features:**
 - KPI Cards: Total Revenue, Orders, AOV, and Avg Pizzas / Order  
