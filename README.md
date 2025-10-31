@@ -32,7 +32,7 @@ The analysis focuses on identifying **top-performing pizzas, customer behavior, 
 | pizza_id | Unique identifier for each pizza |
 | pizza_name | Name of the pizza sold |
 | pizza_category | Category (Classic, Supreme, Veggie, Chicken) |
-| pizza_size | Size (S, M, L, XL) |
+| pizza_size | Size (S, M, L, XL,XLL) |
 | quantity | Quantity of pizzas sold per order |
 | total_price | Total revenue for that transaction |
 | order_date | Date of the order |
@@ -83,7 +83,7 @@ Validated SQL outputs and visualized time-based trends using **Pandas, Matplotli
 
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](https://github.com/BananiIITM/Pizza-Sales-Analysis/blob/main/PIZZA%20SALES%20DB.png)
+![Power BI Dashboard](https://github.com/BananiIITM/Pizza-Sales-Analysis/blob/main/PIZZA%20SALES%20DB.pdf)
 
 **Dashboard Features:**
 - KPI Cards: Total Revenue, Orders, AOV, and Avg Pizzas / Order  
